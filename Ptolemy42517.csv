@@ -1,21 +1,22 @@
-Source,Astronomical epoch 1,Chronological relation,units,Astronomical epoch 2,Number of units
-NASA,1,precedes,days,2,354
-NASA,2,precedes,days,3,175
-NASA,3,precedes,days,4,36029
-NASA,4,precedes,days,5,35879
-NASA,5,precedes,days,6,7796
-NASA,6,precedes,days,7,3809.5
-NASA,7,precedes,days,9,39688.5
-NASA,9,precedes,days,10,176
-NASA,10,precedes,days,11,177
-NASA,11,precedes,days,30,66029
-NASA,30,precedes,days,31,178
-NASA,31,precedes,days,32,177
-NASA,32,precedes,days,33,9362.25
-NASA,33,precedes,days,39,10216.75
-NASA,39,precedes,days,42,1742
-NASA,42,precedes,days,43,2244.25
-NASA,43,precedes,days,54,94960.75
-NASA,54,precedes,days,63,2952.75
-NASA,63,precedes,days,69,562
-NASA,69,precedes,days,73,502.25
+Label,Modern year,month,day,observer location,event,Egyptian month,day,Nabonassar year,ruler,number of years ruled at time of event
+1,721BC,Mar,18,Babylon,total lunar eclipse,Thoth,29.5,26,Mardokempad,1				
+2,720BC,Mar,7,Babylon,partial lunar eclipse,Thoth,18.5,27,Mardokempad,2				
+3,720BC,Sept,1,Babylon,partial lunar eclipse,Phamenoth,15.5,27,Mardokempad,2				
+4,621BC,Apr,22,Babylon,partial lunar eclipse,Athyr,27.5,127,Nabopolassar,5				
+5,523BC,July,15,Babylon,partial lunar eclipse,Phamenoth,17.5,225,Kambyses,7				
+6,502BC,Nov,18,Babylon,partial lunar eclipse,Epiphi,28.5,245,Darius,20
+7,491BC,Apr,24,Babylon,partial lunar eclipse,Tybi,3.5,256,Darius,31	
+9,383BC,Dec,23,Babylon,partial lunar eclipse,Thoth,26.5,366,Phanostratos (Archon)
+10,382BC,June,18,Babylon,partial lunar eclipse,Phamenoth,24.5,366,Phanostratos (Archon)				
+11,382BC,Dec,11,Babylon,total lunar eclipse,Thoth,16.5,367,Euandros (Archon)	
+30,201BC,Sept,22,Alexandria,partial lunar eclipse,Mesore,16,546,II Calippus,54				
+31,200BC,Mar,18,Alexandria,total lunar eclipse,Mechir,9,546,II Calippus,54
+32,200BC,Sep,12,Alexandria,total lunar eclipse,Mesore,5,547,II Calippus,55
+33,174BC,May,1,Alexandria,partial lunar eclipse,Phamenoth,27.5,574,Philometor,7					
+39,146BC,Apr,20,Alexandria,total lunar eclipse,-,-,602,III Calippus,32			
+42,141BC,Jan,27,Rhodes,partial lunar eclipse,Tybi,2.5,607,III Calippus,37			
+43,135BC,Apr,10,Alexandria,total lunar eclipse,-,-,613,III Calippus,43
+54,125AD,Apr,5,Alexandria,partial lunar eclipse,Pachon,17.5,871,Hadrian,9				
+63,133AD,May,6,Alexandria,total lunar eclipse,Payni,20.5, 879,Hadrian,17				
+69,134AD,Oct,20,Alexandria,partial lunar eclipse,Choiak,2.5,881,Hadrian,19			
+73,136AD,Mar,6,Alexandria,partial lunar eclipse,Pharmuti,19.5,882,Hadrian,20
