@@ -1,22 +1,22 @@
-Label,Modern year,month,day,observer location,event,Egyptian month,day,Nabonassar year,ruler,number of years ruled at time of event
-1,721BC,Mar,18,Babylon,total lunar eclipse,Thoth,29.5,26,Mardokempad,1				
-2,720BC,Mar,7,Babylon,partial lunar eclipse,Thoth,18.5,27,Mardokempad,2				
-3,720BC,Sept,1,Babylon,partial lunar eclipse,Phamenoth,15.5,27,Mardokempad,2				
-4,621BC,Apr,22,Babylon,partial lunar eclipse,Athyr,27.5,127,Nabopolassar,5				
-5,523BC,July,15,Babylon,partial lunar eclipse,Phamenoth,17.5,225,Kambyses,7				
-6,502BC,Nov,18,Babylon,partial lunar eclipse,Epiphi,28.5,245,Darius,20
-7,491BC,Apr,24,Babylon,partial lunar eclipse,Tybi,3.5,256,Darius,31	
-9,383BC,Dec,23,Babylon,partial lunar eclipse,Thoth,26.5,366,Phanostratos,(Athenian Archon)
-10,382BC,June,18,Babylon,partial lunar eclipse,Phamenoth,24.5,366,Phanostratos,(Athenian Archon)				
-11,382BC,Dec,11,Babylon,total lunar eclipse,Thoth,16.5,367,Euandros,(Athenian Archon)	
-30,201BC,Sept,22,Alexandria,partial lunar eclipse,Mesore,16,546,II Calippus,54				
-31,200BC,Mar,18,Alexandria,total lunar eclipse,Mechir,9,546,II Calippus,54
-32,200BC,Sep,12,Alexandria,total lunar eclipse,Mesore,5,547,II Calippus,55
-33,174BC,May,1,Alexandria,partial lunar eclipse,Phamenoth,27.5,574,Philometor,7					
-39,146BC,Apr,20,Alexandria,total lunar eclipse,-,-,602,III Calippus,32			
-42,141BC,Jan,27,Rhodes,partial lunar eclipse,Tybi,2.5,607,III Calippus,37			
-43,135BC,Apr,10,Alexandria,total lunar eclipse,-,-,613,III Calippus,43
-54,125AD,Apr,5,Alexandria,partial lunar eclipse,Pachon,17.5,871,Hadrian,9				
-63,133AD,May,6,Alexandria,total lunar eclipse,Payni,20.5, 879,Hadrian,17				
-69,134AD,Oct,20,Alexandria,partial lunar eclipse,Choiak,2.5,881,Hadrian,19			
-73,136AD,Mar,6,Alexandria,partial lunar eclipse,Pharmuti,19.5,882,Hadrian,20
+Source,urn identifier,Astronomical event,Modern year,Modern month,day,observer location
+Ptolemy Almagest,urn:cite2:chron:astron:1,total lunar eclipse,721BC,Mar,18,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:2,partial lunar eclipse,720BC,Mar,7,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:3,partial lunar eclipse,720BC,Sept,1,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:4,partial lunar eclipse,621BC,Apr,22,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:5,partial lunar eclipse,523BC,July,15,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:6,partial lunar eclipse,502BC,Nov,18,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:7,partial lunar eclipse,491BC,Apr,24,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:9,partial lunar eclipse,383BC,Dec,23,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:10,partial lunar eclipse,382BC,June,18,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:11,total lunar eclipse,382BC,Dec,11,Babylon
+Ptolemy Almagest,urn:cite2:chron:astron:11,partial lunar eclipse,201BC,Sept,22,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:30,total lunar eclipse,200BC,Mar,18,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:31,total lunar eclipse,200BC,Sept,12,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:32,partial lunar eclipse,174Bc,May,1,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:33,total lunar eclipse,146BC,Apr,20,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:39,partial lunar eclipse,141BC,Jan,27,Rhodes
+Ptolemy Almagest,urn:cite2:chron:astron:42,total lunar eclipse,135BC,Apr,10,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:43,partial lunar eclipse,125AD,Apr,5,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:54,total lunar eclipse,133AD,May,6,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:63,partial lunar eclipse,134AD,Oct,20,Alexandria
+Ptolemy Almagest,urn:cite2:chron:astron:69,partial lunar eclipse,136AD,Mar,6,Alexandria
